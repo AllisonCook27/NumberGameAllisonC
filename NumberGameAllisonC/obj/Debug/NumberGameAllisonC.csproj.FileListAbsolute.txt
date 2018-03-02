@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\NumberGameAllisonC\NumberGameAllisonC\bin\Debug\NumberGameAllisonC.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\NumberGameAllisonC\NumberGameAllisonC\bin\Debug\NumberGameAllisonC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\NumberGameAllisonC\NumberGameAllisonC\bin\Debug\NumberGameAllisonC.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\NumberGameAllisonC\NumberGameAllisonC\obj\Debug\NumberGameAllisonC.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\NumberGameAllisonC\NumberGameAllisonC\obj\Debug\NumberGameAllisonC.frmNumberGuessingGame.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\NumberGameAllisonC\NumberGameAllisonC\obj\Debug\NumberGameAllisonC.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\NumberGameAllisonC\NumberGameAllisonC\obj\Debug\NumberGameAllisonC.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\NumberGameAllisonC\NumberGameAllisonC\obj\Debug\NumberGameAllisonC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\NumberGameAllisonC\NumberGameAllisonC\obj\Debug\NumberGameAllisonC.pdb
